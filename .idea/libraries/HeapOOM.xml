@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HeapOOM">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/main/src/HeapOOM.java" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
